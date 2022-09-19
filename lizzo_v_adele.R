@@ -70,9 +70,6 @@ library(tidytext)
   
   mean(nineteen_sentiment$value)
   
-  
-  
-  
-  
+  Yay, isn't this cool!
   
   
